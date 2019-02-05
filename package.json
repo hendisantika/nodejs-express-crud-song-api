@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-express-crud-song-api",
+  "version": "1.0.0",
+  "description": "Creating RESTful API using Express + MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hendisantika/nodejs-express-crud-song-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "crud",
+    "api",
+    "mongodb"
+  ],
+  "author": "Hendi Santika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendisantika/nodejs-express-crud-song-api/issues"
+  },
+  "homepage": "https://github.com/hendisantika/nodejs-express-crud-song-api#readme"
+}
