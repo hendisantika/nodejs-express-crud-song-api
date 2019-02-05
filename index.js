@@ -11,7 +11,7 @@ var mongoose = require('mongoose');
 
 mongoose.Promise = global.Promise;
 
-mongoose.connect(config.url);
+mongoose.connect(config.url, {useNewUrlParser: true});
 
 require('./app/music.route.js')(app);
 
