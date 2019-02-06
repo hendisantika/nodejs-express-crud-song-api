@@ -44,3 +44,9 @@ Update song by Id
 `PUT /song/songId`
 
 ![Update Song by Id](img/update.png "Update Song by Id")
+
+Delete Song
+
+`DELETE /song/:songId `
+
+![Delete Song by Id](img/delete.png "Delete Song Id")
